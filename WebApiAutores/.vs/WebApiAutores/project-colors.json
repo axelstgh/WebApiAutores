@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16ee2408-8ff3-4bc0-8383-7b8893b29a69": {
+      "ProjectGuid": "16ee2408-8ff3-4bc0-8383-7b8893b29a69",
+      "DisplayName": "WebApiAutores",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
