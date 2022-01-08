@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AXEL\\source\\repos\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj": {}
+    "C:\\Users\\AXEL\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AXEL\\source\\repos\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj": {
+    "C:\\Users\\AXEL\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AXEL\\source\\repos\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
+        "projectUniqueName": "C:\\Users\\AXEL\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
         "projectName": "WebApiAutores",
-        "projectPath": "C:\\Users\\AXEL\\source\\repos\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
+        "projectPath": "C:\\Users\\AXEL\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores\\WebApiAutores.csproj",
         "packagesPath": "C:\\Users\\AXEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AXEL\\source\\repos\\WebApiAutores\\WebApiAutores\\obj\\",
+        "outputPath": "C:\\Users\\AXEL\\Documents\\GitHub\\WebApiAutores\\WebApiAutores\\WebApiAutores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AXEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,17 +43,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0-preview.3.21201.2, )"
+              "version": "[6.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.0-preview.3.21201.2, )"
+              "version": "[6.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0-preview.3.21201.2, )"
+              "version": "[6.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
